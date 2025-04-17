@@ -13,7 +13,7 @@
 		<h1 class="text-3xl font-semibold text-white underline">User inscreption level</h1>
 	</article>
 	<article class="relative flex h-96 w-full flex-wrap items-center justify-evenly">
-		<a href="/sign-in">
+		<a href="/Register/sign-in">
 			<div
 				class="relative flex aspect-square h-80 w-60 items-center justify-center overflow-hidden rounded-lg border-[1px] border-white shadow-2xl"
 			>
@@ -40,7 +40,7 @@
 				<h1 class="absolute text-center text-2xl font-semibold text-orange-500">Login</h1>
 			</div>
 		</a>
-		<a href="/reset-password">		
+		<a href="/Register/reset-password">		
 			<div
 				class="relative flex aspect-square h-80 w-60 items-center justify-center overflow-hidden rounded-lg border-[1px] border-white shadow-2xl"
 			>
